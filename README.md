@@ -47,5 +47,11 @@
 
 ### 空天数据智慧应用技术
 
-![综合卫星遥感影像和无人近地感知数据资源](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/tree/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/1%20The%20Intellectual%20Application%20Technologies%20of%20Aerospace%20Data)
+[综合卫星遥感影像和无人近地感知数据资源]([https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/tree/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/1%20The%20Intellectual%20Application%20Technologies%20of%20Aerospace%20Data](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/1%20The%20Intellectual%20Application%20Technologies%20of%20Aerospace%20Data/1.1%20Integration%20of%20Satellite%20Remote%20Sensing%20Images%20and%20UAV-NES%20Data%20Resources)https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/1%20The%20Intellectual%20Application%20Technologies%20of%20Aerospace%20Data/1.1%20Integration%20of%20Satellite%20Remote%20Sensing%20Images%20and%20UAV-NES%20Data%20Resources)
+
+[感知—认知AI模型](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/1%20The%20Intellectual%20Application%20Technologies%20of%20Aerospace%20Data/1.2%20Perception-Cognition%20AI%20Model)
+
+[定制各类行业等级数字孪生数据服务](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/1%20The%20Intellectual%20Application%20Technologies%20of%20Aerospace%20Data/1.3%20Customized%20Multi-Industry%20Level%20Digital%20Twin%20Data%20Services)
+
+[超写实高等级地理信息数据渲染平台](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/1%20The%20Intellectual%20Application%20Technologies%20of%20Aerospace%20Data/1.4%20Ultra-realistic%20High-Level%20Geographic%20Information%20Data%20Rendering%20Platform)
 
