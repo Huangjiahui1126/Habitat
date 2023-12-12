@@ -47,7 +47,7 @@
 
 ### 空天数据智慧应用技术
 
-[综合卫星遥感影像和无人近地感知数据资源]([https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/tree/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/1%20The%20Intellectual%20Application%20Technologies%20of%20Aerospace%20Data](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/1%20The%20Intellectual%20Application%20Technologies%20of%20Aerospace%20Data/1.1%20Integration%20of%20Satellite%20Remote%20Sensing%20Images%20and%20UAV-NES%20Data%20Resources)https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/1%20The%20Intellectual%20Application%20Technologies%20of%20Aerospace%20Data/1.1%20Integration%20of%20Satellite%20Remote%20Sensing%20Images%20and%20UAV-NES%20Data%20Resources)
+[综合卫星遥感影像和无人近地感知数据资源](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/1%20The%20Intellectual%20Application%20Technologies%20of%20Aerospace%20Data/1.1%20Integration%20of%20Satellite%20Remote%20Sensing%20Images%20and%20UAV-NES%20Data%20Resources)
 
 [感知—认知AI模型](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/1%20The%20Intellectual%20Application%20Technologies%20of%20Aerospace%20Data/1.2%20Perception-Cognition%20AI%20Model)
 
@@ -55,3 +55,54 @@
 
 [超写实高等级地理信息数据渲染平台](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/1%20The%20Intellectual%20Application%20Technologies%20of%20Aerospace%20Data/1.4%20Ultra-realistic%20High-Level%20Geographic%20Information%20Data%20Rendering%20Platform)
 
+### 自主大模型AI赋能
+
+[自主研发可编译程序](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/2%20Independent%20LLM%20AI%20Empowerment/2.1%20Self-developed%20Compilable%20Programs)
+
+[水文环境景观数字构建](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/2%20Independent%20LLM%20AI%20Empowerment/2.2%20Digital%20Scenario%20Construction%20for%20Hydrological%20Environments)
+
+[混合地缘景观数字构建](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/2%20Independent%20LLM%20AI%20Empowerment/2.3%20Digital%20Scenario%20Construction%20of%20Integrated%20Geographical%20Environment)
+
+[无限延伸地形渲染支撑](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/2%20Independent%20LLM%20AI%20Empowerment/2.4%20Supported%20by%20Infinitely%20Extended%20Terrain%20Rendering)
+
+[支持复杂环境的一体渲染优化](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/2%20Independent%20LLM%20AI%20Empowerment/2.5%20Complex%20Environment%20Integrated%20Rendering%20Optimisation)
+
+### 集成示范
+
+[虚实共生项目运维监测平台](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/3%20Integrated%20Demonstration/3.1%20O%26M%20Platform%20of%20Virtual%20and%20Real%20Symbiosis%20Projects)
+
+[基于空地虚实视景的工业级需求跟踪服务](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/3%20Integrated%20Demonstration/3.2%20Industrial%20Grade%20Requirement%20Tracking%20Based%20on%20%20Air-to-ground%20Virtual%20Reality%20Views)
+
+[工业级信息交互管理系统集成](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/3%20Integrated%20Demonstration/3.3%20Integrated%20Industrial%20Grade%20Information%20Interactive%20Management%20System)
+
+[现地监控与传感管理系统](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/3%20Integrated%20Demonstration/3.4%20Field%20Monitoring%20%26%20Sensor%20Management%20System)
+
+### 历史科学社会感知计算验证
+
+[A&HGIS断代遥感影像社科数据集成平台](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/4%20Social%20Perception%20Computing%20%26%20Validation%20in%20Historical%20Science/4.1%20A%26HGIS%20Platform%20for%20Integration%20of%20Historical%20Remote%20Sensing%20Images%20%26%20Social%20Science%20Data)
+
+[场景-文本提示学习语料大模型](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/4%20Social%20Perception%20Computing%20%26%20Validation%20in%20Historical%20Science/4.2%20Scenario-Text%20Prompts%20for%20LLM)
+
+[社会经济计算算法集成结构方程模型](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/4%20Social%20Perception%20Computing%20%26%20Validation%20in%20Historical%20Science/4.3%20Structural%20Equation%20Modeling%20for%20Socio-Economic%20Algorithm%20Integration)
+
+[复杂文本语义抽取动态图谱知识库](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/4%20Social%20Perception%20Computing%20%26%20Validation%20in%20Historical%20Science/4.4%20Complex%20Semantic%20Extraction%20%26%20Dynamic%20Knowledge%20Graph%20Base)
+
+[多元异构社会场景情景感知效能与情感评价](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/4%20Social%20Perception%20Computing%20%26%20Validation%20in%20Historical%20Science/4.5%20Evaluation%20of%20Perceptual%20Efficacy%20and%20Affect%20in%20Heterogeneous%20Social%20Scenarios)
+
+[多模态信息融合协同情境认知](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/4%20Social%20Perception%20Computing%20%26%20Validation%20in%20Historical%20Science/4.6%20Scenario%20Cognition%20with%20Multimodal%20Information%20Fusion)
+
+### 超写实高等级场景建设中的虚实叙事路径
+
+[超写实遥感孪生数据采集计算渲染枢纽基座](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/5%20Virtual%20Narrative%20Routes%20in%20Hyper-Realistic%20Scenario%20Construction/5.1%20Ultra-Realistic%20Remote%20Sensing%20Twin%20Data%20Acquisition%20%26%20Rendering%20Hub)
+
+[高等级智慧计算虚实视景百亿级图像样本库](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/5%20Virtual%20Narrative%20Routes%20in%20Hyper-Realistic%20Scenario%20Construction/5.2%20Image%20Database%20of%2010-billion-grade%20to%20Support%20Intelligent%20Computing)
+
+[精微地缘场景信息层开发](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/5%20Virtual%20Narrative%20Routes%20in%20Hyper-Realistic%20Scenario%20Construction/5.3%20Fine%20Geo-Scenario%20Information%20Layer%20Development)
+
+### 新材料与新技术联合创新
+
+[人工智能纺织新材料创新应用](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/6%20Joint%20Innovation%20of%20New%20Materials%20%26%20Technologies/6.1%20New%20Artificial%20Intelligence%20Textile%20Materials)
+
+[当代艺术数字孪生基建](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/6%20Joint%20Innovation%20of%20New%20Materials%20%26%20Technologies/6.2%20Contemporary%20Art%20Digital%20Twin%20Infrastructure)
+
+[大遗址复原群落全域智慧景区工程建设](https://github.com/Science-Art-Demonstration-Research-Lab/Habitat/blob/main/Scientific%20Researches%20%26%20Services%20with%20Independent%20IPRs/6%20Joint%20Innovation%20of%20New%20Materials%20%26%20Technologies/6.3%20Intelligent%20Scenic%20Spot%20Construction%20Based%20on%20Great%20Site%20Restoration)
